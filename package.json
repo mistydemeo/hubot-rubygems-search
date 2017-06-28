@@ -14,7 +14,7 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "hubot": "2.x"
+    "hubot": "^3.0.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
